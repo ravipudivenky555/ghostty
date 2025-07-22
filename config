@@ -1,0 +1,3 @@
+config-file = keymaps.config
+config-file = look.config
+config-file = behavior.config
